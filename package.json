@@ -44,7 +44,7 @@
   "description": "testing",
   "main": "cucumber-html-reports.js",
   "scripts": {
-    "test": "mocha"
+    "test": "cypress run"
   },
   "author": "Francis",
   "license": "ISC"
