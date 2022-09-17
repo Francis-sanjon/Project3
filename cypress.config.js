@@ -41,6 +41,7 @@ async function setupNodeEvents(on, config) {
 }
 
 module.exports = defineConfig({
+  projectId: 'uiihvd',
   reporter: 'mochawesome',
   reporterOptions: {
     reportDir: 'mochawesome-report',
@@ -48,6 +49,14 @@ module.exports = defineConfig({
     html: false,
     json: true,
   },
+  reporter: 'junit',
+  reporterOptions: {
+    mochaFile: 'cypress/Output/my-test-output.xml',
+    toConsole: true,
+    overwrite: false
+  },
+
+
   
 
   e2e: {

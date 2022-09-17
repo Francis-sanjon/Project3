@@ -14,7 +14,7 @@
             "line": 5,
             "name": "User is at the login page",
             "result": {
-              "duration": 9158000000,
+              "duration": 15046000000,
               "status": "passed"
             },
             "match": {
@@ -26,7 +26,7 @@
             "line": 6,
             "name": "User enters username as username and password as password",
             "result": {
-              "duration": 3375000000,
+              "duration": 2334000000,
               "status": "passed"
             },
             "match": {
@@ -38,7 +38,7 @@
             "line": 7,
             "name": "User clicks on login button",
             "result": {
-              "duration": 1452000000,
+              "duration": 2943000000,
               "status": "passed"
             },
             "match": {
@@ -50,7 +50,7 @@
             "line": 8,
             "name": "User is able to successfully login to the Website",
             "result": {
-              "duration": 10371000000,
+              "duration": 10218000000,
               "status": "passed"
             },
             "match": {
@@ -82,7 +82,7 @@
             "line": 5,
             "name": "User is at the login page",
             "result": {
-              "duration": 8671000000,
+              "duration": 15727000000,
               "status": "passed"
             },
             "match": {
@@ -94,7 +94,7 @@
             "line": 6,
             "name": "User navigate to Booked iteration page",
             "result": {
-              "duration": 695000000,
+              "duration": 677000000,
               "status": "passed"
             },
             "match": {
@@ -118,7 +118,7 @@
             "line": 8,
             "name": "User clicks cancel booked",
             "result": {
-              "duration": 821000000,
+              "duration": 915000000,
               "status": "passed"
             },
             "match": {
