@@ -18,7 +18,8 @@
       "Credit_Card_type": "VISA",
       "Expiry_Month": "May",
       "Expiry_Year": 2022,
-      "Cvv_Number": 111
+      "Cvv_Number": 111,
+      "Email_Address": "Francis@gmail.com"
     },
     {
       "username": "Francis3535",
@@ -38,7 +39,8 @@
       "Credit_Card_type": "Master Card",
       "Expiry_Month": "June",
       "Expiry_Year": 2022,
-      "Cvv_Number": 222
+      "Cvv_Number": 222,
+      "Email_Address": "Francis@gmail.com"
     },
     {
       "username": "Francis3535",
@@ -58,7 +60,8 @@
       "Credit_Card_type": "VISA",
       "Expiry_Month": "October",
       "Expiry_Year": 2022,
-      "Cvv_Number": 333
+      "Cvv_Number": 333,
+      "Email_Address": "Francis@gmail.com"
     }
   ]
 }

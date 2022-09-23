@@ -44,7 +44,8 @@
   "description": "testing",
   "main": "cucumber-html-reports.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "cypress run && node cucumber-html-reports.js",
+    "html:report":"node cucumber-html-reports.js"
   },
   "author": "Francis",
   "license": "ISC"
